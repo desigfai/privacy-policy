@@ -1,4 +1,5 @@
 ---
+layout: default
 # Privacy Policy for Desigfai
 ---
 **Last Updated: October 7, 2025**
