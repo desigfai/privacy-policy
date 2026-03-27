@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy – Desi Girlfriend AI
 ---
-**Last Updated: October 7, 2025**
+**Last Updated: March 28, 2026**
 
 # Privacy Policy for Desi Girlfriend AI
 
