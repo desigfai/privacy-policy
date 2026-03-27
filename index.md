@@ -1,14 +1,16 @@
 ---
 layout: default
-# Privacy Policy for Desigfai
+title: Privacy Policy – Desi Girlfriend AI
 ---
 **Last Updated: October 7, 2025**
 
+# Privacy Policy for Desi Girlfriend AI
+
 ## Introduction
 
-Desigfai ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Android mobile application ("Desigfai" or "the App") that provides AI companion chat services.
+**Desi Girlfriend AI** is an Android application developed and published on Google Play by **Nabhos Interactive** ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app, which provides AI companion chat services.
 
-By using Desigfai, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this privacy policy, please do not access or use our App.
+By using Desi Girlfriend AI, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this privacy policy, please do not access or use our App.
 
 ## Information We Collect
 
@@ -68,7 +70,7 @@ We use Firebase services which may employ cookies and similar technologies to:
 **Account Management:**
 - Create and manage your user account
 - Authenticate your access to the service
-- synchronize your data across devices
+- Synchronize your data across devices
 
 ### 2. Service Improvement
 
@@ -348,4 +350,6 @@ If you are a California resident, you have the following rights:
 
 This Privacy Policy is designed to be comprehensive and transparent about our data practices. If any part of this policy is unclear or if you have specific questions about how we handle your data, please don't hesitate to contact us.
 
+**Nabhos Interactive · Developer on Google Play**
+**App: Desi Girlfriend AI**
 **Effective Date:** October 7, 2025
