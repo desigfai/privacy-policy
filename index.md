@@ -352,4 +352,5 @@ This Privacy Policy is designed to be comprehensive and transparent about our da
 
 **Nabhos Interactive · Developer on Google Play**
 **App: Desi Girlfriend AI**
-**Effective Date:** October 7, 2025
+**Effective Date:** March 28, 2026
+**Contact Email:** desigfai@protonmail.com
