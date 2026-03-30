@@ -149,6 +149,12 @@ We use Firebase services which may employ cookies and similar technologies to:
 
 ### 1. Service Providers
 
+**Payment and Subscription Services:**
+
+- Google Play Billing: For securely processing in-app purchases and recurring subscriptions.
+- RevenueCat: For managing subscription entitlements, verifying purchase status, and syncing your Pro access across devices.
+Note: We do not collect, process, or store your raw credit card numbers or financial information. These third-party processors handle your transactions securely and only share purchase tokens and transaction history with us.
+
 **AI Service Providers:**
 - OpenRouter API: For processing AI chat requests and generating responses
 - Request processing includes sanitized conversation history for context
@@ -333,6 +339,10 @@ If you are a California resident, you have the following rights:
 - Automatic extraction of conversation memories for context
 - Episodic summarization to manage conversation length
 - No human review of conversation content except for safety purposes
+
+**Safety and Policy Compliance:**
+- While your conversations are private, automated safety systems may temporarily scan chat content to detect and prevent severe policy violations (such as illegal activities, terrorism, or Child Sexual Abuse Material) as required by Google Play Developer Policies and international law.
+- This moderation is automated, strictly for safety and legal compliance, and is designed to protect users and the integrity of the platform.
 
 ### Advertisement Processing
 
