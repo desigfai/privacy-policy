@@ -128,7 +128,7 @@ We use Firebase services which may employ cookies and similar technologies to:
 ### 2. Data Security Measures
 
 **Encryption:**
-- End-to-end encryption for data transmission using HTTPS/TLS
+- Encryption in transit using industry-standard HTTPS/TLS
 - Encrypted storage for sensitive information
 - Secure authentication token management
 - API key protection using Firebase Secret Manager
@@ -156,9 +156,10 @@ We use Firebase services which may employ cookies and similar technologies to:
 Note: We do not collect, process, or store your raw credit card numbers or financial information. These third-party processors handle your transactions securely and only share purchase tokens and transaction history with us.
 
 **AI Service Providers:**
-- OpenRouter API: For processing AI chat requests and generating responses
-- Request processing includes sanitized conversation history for context
-- No personal identifiers are shared with AI service providers
+- To power our AI character interactions, we utilize third-party AI hosting and routing services, primarily using Featherless, with OpenRouter acting as a fallback system to ensure uptime.
+- Featherless (Primary): Operates under a strict "zero logs" policy. Your conversation data is processed in real-time to generate responses and is not logged, retained, or used to train any AI models.
+- OpenRouter (Fallback): Used only during primary system downtime to ensure continuous service availability. Please note that when your requests are routed through OpenRouter, your conversation inputs and the AI-generated outputs may be collected and used by OpenRouter to improve their products and services.
+- Data Minimization: Whether using our primary or fallback provider, all requests include only the sanitized conversation history required to maintain chat context. No personal account identifiers (such as your email address, real name, or billing information) are ever shared with these external AI services.
 
 **Google Firebase Services:**
 - Firebase Authentication: User identity management
@@ -230,7 +231,7 @@ In the event of a merger, acquisition, or sale of assets:
 ### 2. Data Control
 
 **Account Management:**
-- Delete your account and all associated data
+- Delete your account and all associated data directly within the App's settings menu. If you no longer have the app installed, you may request account deletion by submitting a request here: [https://forms.gle/rknY7cGc6ATqGXhv5]
 - Export your conversation history
 - Manage your authentication methods
 
